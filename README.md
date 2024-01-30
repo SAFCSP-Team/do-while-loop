@@ -1,4 +1,4 @@
-# DO-while Loop
+# Do-while Loop
 
 ### Objective
 
