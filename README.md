@@ -6,9 +6,9 @@ In this project, our main goal is to understand how to use a  do-while loop in C
 
 ### Problem
 
-Develop a program that takes inputs from the user and calculates the sum of the numbers until a negative number is entered using a do-while loop.
+Develop a program that calculates the sum of numbers entered by the user using a do-while loop, stopping when a negative number is entered.
 
-- For example, the program will output:
+- Example, the program will output:
 ```
 Enter the number (enter a negative number to stop): 5
 Enter the number (enter a negative number to stop): 6
